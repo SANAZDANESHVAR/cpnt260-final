@@ -16,4 +16,4 @@ I used them for icon and log.
 ### Help and guidness
  Patrick teach me how ican link html pages to  the css in order to run  the projrct.
 ### [Github link] ( https://sanazdaneshvar.github.io/cpnt260-final/)
-###[Github page] (https://github.com/SANAZDANESHVAR)
+### [Github page] (https://github.com/SANAZDANESHVAR)
